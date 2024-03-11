@@ -31,7 +31,7 @@ body {
 }
 
 a {
-  color: #bb82d2;
+  color: #FFE7FF;
 }
 
 a:hover,
@@ -78,7 +78,7 @@ p {
 }
 
 p.lead {
-  color: #bb82d2;
+  color: #FFE7FF;
   margin-bottom: 2rem;
 }
 
@@ -218,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #421d52 0%, #70318A 100%);
-  background-image: -webkit-linear-gradient(135deg, #421d52 0%, #70318A 100%);
-  background-image: -ms-linear-gradient(135deg, #421d52 0%, #70318A 100%);
-  background-image: linear-gradient(135deg, #421d52 0%, #70318A 100%);
+  background-image: -moz-linear-gradient(135deg, #481d52 0%, #79318A 100%);
+  background-image: -webkit-linear-gradient(135deg, #481d52 0%, #79318A 100%);
+  background-image: -ms-linear-gradient(135deg, #481d52 0%, #79318A 100%);
+  background-image: linear-gradient(135deg, #481d52 0%, #79318A 100%);
 }
 
 .tagline {
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #9D549F;
-  background: -moz-linear-gradient(top, #9D549F 0%, #9D549F 100%);
-  background: -webkit-linear-gradient(top, #9D549F 0%, #9D549F 100%);
-  background: linear-gradient(to bottom, #9D549F 0%, #9D549F 100%);
+  color: #00B4AA;
+  background: -moz-linear-gradient(top, #00A2BC 0%, #00B4AA 100%);
+  background: -webkit-linear-gradient(top, #00A2BC 0%, #00B4AA 100%);
+  background: linear-gradient(to bottom, #00A2BC 0%, #00B4AA 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #9D549F;
-  background: -moz-linear-gradient(top, #9D549F 0%, #9D549F 100%);
-  background: -webkit-linear-gradient(top, #9D549F 0%, #9D549F 100%);
-  background: linear-gradient(to bottom, #9D549F 0%, #9D549F 100%);
+  color: #00B4AA;
+  background: -moz-linear-gradient(top, #00A2BC 0%, #00B4AA 100%);
+  background: -webkit-linear-gradient(top, #00A2BC 0%, #00B4AA 100%);
+  background: linear-gradient(to bottom, #00A2BC 0%, #00B4AA 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -585,7 +585,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #bb82d2;
+  color: #FFE7FF;
 }
 
 @media (max-width: 991px) {

@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>CodeCounter for Mac</h1>
 <p align=center>
-  The only app you'll ever need<br>to monitor your code projects
+  The only app you'll ever need<br>to monitor your code projects - efficiently
 </p>
 
 

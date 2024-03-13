@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>CodeCounter for Mac</h1>
 <p align=center>
-  Drag'n'drop your projects<br>...and you're ready to go!
+  Just drag'n'drop your projects<br>...and you're ready to go!
 </p>
 
 

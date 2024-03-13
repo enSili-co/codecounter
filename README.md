@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>CodeCounter for Mac</h1>
 <p align=center>
-  Just drag'n'drop your projects<br>...and you're ready to go!
+  The only app you'll ever need<br>to monitor your code projects
 </p>
 
 

@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "CodeCounter",
-  "description": "Detailed code counter for macOS - counte the lines of code in any project",
+  "description": "Detailed code counter for macOS - count the lines of code in any project",
   "start_url": "/",
   "display": "standalone"
 }

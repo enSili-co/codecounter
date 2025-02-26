@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/codecounter/codecounter-1.1.zip
 
 # Official Website
 
-▶︎ https://codecounter.app
+▶︎ https://ensili.co/app/codecounter
 
 # Issues
 

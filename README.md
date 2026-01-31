@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/codecounter/codecounter-1.5.2.zip
+▶︎ https://cdn.ensili.co/app/codecounter/download/codecounter-1.5.2.zip
 
 # Official Website
 
